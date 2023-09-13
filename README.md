@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya236
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning BE E&TC
+- 🌱 I’m currently learning Linux RHCSA
 - 💞️ Collab? Im in 
 - 📫 Wanna contact!! JUST DM ME:@__adiii_._7
 
