@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya236
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning BE E&TC and DevOPs
-- 💞️ I’m looking to collaborate 
+- 🌱 I’m currently learning BE E&TC
+- 💞️ Collab? Im in 
 - 📫 Wanna contact!! JUST DM ME:@__adiii_._7
 
 <!---
